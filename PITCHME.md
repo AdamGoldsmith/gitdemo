@@ -1,9 +1,12 @@
+background : images/slide_bg.jpg
+
+---?image=images/title_bg.png
 # Git Presentation
 > 24th November 2017
 
 * Katarzyna Siedlarek
-* Anthony Skidmore
 * Adam Goldsmith
+* Anthony Skidmore
 
 ---
 
