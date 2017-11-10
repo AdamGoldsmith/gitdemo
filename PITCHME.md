@@ -1,17 +1,17 @@
-@title[TITLE]
 
 ---?image=images/title_bg.png
+@title[TITLE]
 # Git Presentation
 > 24th November 2017
+
+---
+@title[Hello]
+
+# The presenters
 
 * Katarzyna Siedlarek
 * Adam Goldsmith
 * Anthony Skidmore
-
----
-@title[Hello"
-
-# Say hello to the presenters
 
 ---
 @title[What is Git?]
@@ -40,7 +40,7 @@ Version Control System
 * Centralised
 
 ---
-@title93rd Gen]
+@title[3rd Gen]
 
 ## 3rd Gen
 * Changesets
