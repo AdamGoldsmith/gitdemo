@@ -1,4 +1,3 @@
-background : images/slide_bg.jpg
 
 ---?image=images/title_bg.png
 # Git Presentation
