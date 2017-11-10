@@ -15,7 +15,7 @@
 ---
 @title[What is Git?]
 
-![gitlogo](images/gitlogo.png =100x)
+![gitlogo](images/gitlogo.png&size=100x)
 # What is Git?
 
 Version Control System
