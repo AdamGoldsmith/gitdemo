@@ -1,5 +1,4 @@
-
-?image=images/title_bg.png
+---?image=images/title_bg.png
 @title[TITLE]
 # Git Presentation
 > 24th November 2017
