@@ -30,10 +30,6 @@ Version Control System
 
 ---
 
-<a href="https://asciinema.org/a/Xy1YvMNoCre4Pl0iY1Qg0ONIb?autoplay=1" target="_blank"><img src="https://asciinema.org/a/Xy1YvMNoCre4Pl0iY1Qg0ONIb.png" title="Demonstration video" alt="Demonstration video" width="640" /></a>
-
----
-
 ## Pre-requisites
 
 * Docker Engine
@@ -58,7 +54,6 @@ ansible-container build
 ```
 
 ---
-
 
 ## Usage
 
