@@ -49,4 +49,7 @@ Version Control System
 * Distributed
 
 ---
+@title[Why use Git?]
+
+## Why use Git?
 
