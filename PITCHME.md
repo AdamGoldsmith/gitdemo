@@ -29,7 +29,7 @@ Version Control System
 +++
 @title[1st Gen]
 
-1st Gen
+1st Generation
 * 1970s
 * Single File
 * No networking
@@ -37,14 +37,14 @@ Version Control System
 +++
 @title[2nd Gen]
 
-2nd Gen
+2nd Generation
 * Multi File
 * Centralised
 
 +++
 @title[3rd Gen]
 
-3rd Gen
+3rd Generation
 * Changesets
 * Distributed
 
