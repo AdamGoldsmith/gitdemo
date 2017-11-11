@@ -6,7 +6,7 @@
 ---
 @title[Hello]
 
-# The presenters
+# Presenters
 
 * Katarzyna Siedlarek
 * Adam Goldsmith
