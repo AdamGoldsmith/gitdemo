@@ -6,7 +6,7 @@
 ---
 @title[Hello]
 
-# Presenters
+## Presenters
 
 * Katarzyna Siedlarek
 * Adam Goldsmith
@@ -15,34 +15,36 @@
 ---
 @title[What is Git?]
 
-# What is Git?
+## What is Git?
 
 Version Control System
 
 ---
 @title[History of VCS]
 
-# History of VCS
+## History of VCS
 
----
+![Down Key](images/down.png)
+
++++
 @title[1st Gen]
 
-## 1st Gen
+### 1st Gen
 * 1970s
 * Single File
 * No networking
 
----
++++
 @title[2nd Gen]
 
-## 2nd Gen
+### 2nd Gen
 * Multi File
 * Centralised
 
----
++++
 @title[3rd Gen]
 
-## 3rd Gen
+### 3rd Gen
 * Changesets
 * Distributed
 
