@@ -24,7 +24,7 @@ Version Control System
 
 ## History of VCS
 
-![Down Key](images/down3.png)
+![Down Key](images/down.png)
 
 +++
 @title[1st Gen]
