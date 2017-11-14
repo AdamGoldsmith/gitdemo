@@ -1,6 +1,6 @@
 ---?image=images/title_bg.png
 @title[TITLE]
-# Git Presentation
+# Inside Source Control
 > 24th November 2017
 
 ---
