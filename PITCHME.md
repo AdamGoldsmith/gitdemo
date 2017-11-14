@@ -1,6 +1,6 @@
 ---?image=images/title_bg.png
 @title[TITLE]
-# Inside Source Control
+# Version Control For Beginners
 > 24th November 2017
 
 ---
