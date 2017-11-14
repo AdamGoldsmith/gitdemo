@@ -1,6 +1,7 @@
 ---?image=images/title_bg.png
 @title[TITLE]
-## Version Control For Beginners
+## Version Control
+## For Beginners
 > 24th November 2017
 
 ---
