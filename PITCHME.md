@@ -1,6 +1,6 @@
 ---?image=images/title_bg.png
 @title[TITLE]
-# Inside Source Control
+## Inside Source Control
 > 24th November 2017
 
 ---
