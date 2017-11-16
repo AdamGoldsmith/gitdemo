@@ -25,7 +25,6 @@ version control = source control = software tools (programs) used to help with f
 
 ---
 @title[Why do we use it?]
-## Why do we use it?
 
 <p>How do you track your changes?</p>
 <figure>
@@ -33,7 +32,7 @@ version control = source control = software tools (programs) used to help with f
 </figure>
 
 +++
-
+## Why do we use it?
 <figure>
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
 <figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
