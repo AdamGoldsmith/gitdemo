@@ -27,7 +27,8 @@ version control = source control = software tools (programs) used to help with f
 @title[Why do we use it?]
 ## Why do we use it?
 
-<figure style="margin-bottom:10px;">
+<p>How do you track your changes?</p>
+<figure>
 <img src="images/without-vs.png" alt="without-vs">
 </figure>
 
@@ -37,6 +38,8 @@ version control = source control = software tools (programs) used to help with f
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
 <figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
 </figure>
+
+<p>Simple answer: to keep our files safe</p>
 	
 ---
 
@@ -76,12 +79,5 @@ Version Control System
 * Distributed
 
 ---
-@title[Why use Git?]
 
-## Why use Git?
-+++
-Simple answer: to keep your files safe
-(images/verybadexample.jpg)
-
----
 
