@@ -79,6 +79,6 @@ Version Control System
 
 ---
 @title[Git installation]
-![Video](https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 ---
 
