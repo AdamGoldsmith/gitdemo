@@ -78,5 +78,7 @@ Version Control System
 * Distributed
 
 ---
-
+@title[Git installation]
+![Video](https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/view?usp=sharing)
+---
 
