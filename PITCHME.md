@@ -19,13 +19,22 @@
 ## What is version control?
 
 +++
+@title[What is version control?]
 version control = source control = software tools (programs) used to help with files management
 
 ---
-@title[What is version control?]
+@title[Why do we use it?]
+## Why do we use it?
 
-![Without-vs](images/without-vs.png)
+---?image=images/without-vs.png
 
++++
+<figure>
+<img src="images/vc-xkcd.jpg" alt="xkcd-vc">
+<figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
+
+</figure>
+	
 ---
 
 @title[What is Git?]
