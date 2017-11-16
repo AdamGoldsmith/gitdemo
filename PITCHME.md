@@ -27,8 +27,8 @@ version control = source control = software tools (programs) used to help with f
 @title[Why do we use it?]
 ## Why do we use it?
 
-<figure>
-<img src="images/without-vs.png" alt="without-vs" height="50%" width="50%">
+<figure style="margin-bottom:10px;">
+<img src="images/without-vs.png" alt="without-vs">
 </figure>
 
 +++
