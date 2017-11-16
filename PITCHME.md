@@ -24,8 +24,7 @@ version control = source control = software tools (programs) used to help with f
 ---
 @title[What is version control?]
 
-+++
-(images/without-vs.png)
+![Without-vs](images/without-vs.png)
 
 ---
 
