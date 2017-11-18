@@ -14,11 +14,30 @@
 * Anthony Skidmore
 
 ---
+@title[Overview]
+
+## Overview
+
+* What is version control? (Kasia)
+* Why use version control? (Kasia)
+* What is Git? (Adam)
+* Installing Git (Kasia)
+* Working on Git locally (Adam)
+* Working on Git remotely (Kasia)
+
+---
 @title[What is Git?]
 
 ## What is Git?
 
+Git
 Version Control System
+
++++
+@title[Git Search History Rank]
+
+Git Search Interest Rank
+![Logo](images/git-stats.png)
 
 ---
 @title[History of VCS]
