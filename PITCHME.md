@@ -37,6 +37,7 @@ Version Control System
 @title[Git Search History Rank]
 
 Git Search Interest Rank
+
 ![git stats](images/git-stats.png)
 
 ---
