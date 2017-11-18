@@ -18,12 +18,12 @@
 
 ## Overview
 
-* What is version control? (Kasia)
-* Why use version control? (Kasia)
-* What is Git? (Adam)
-* Installing Git (Kasia)
-* Working on Git locally (Adam)
-* Working on Git remotely (Kasia)
+* What is version control? 
+* Why use version control?
+* What is Git?
+* Installing Git
+* Working on Git locally
+* Working on Git remotely
 
 ---
 @title[What is Git?]
