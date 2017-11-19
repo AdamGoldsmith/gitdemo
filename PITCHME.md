@@ -86,7 +86,7 @@ Version Control System
 ---
 
 @title[Git installation]
-# Git installation
+## Git installation
 
 +++
 
@@ -214,7 +214,7 @@ __Install!__
 ---
 
 @title[Working with remote repos]
-# Working with remote repos
+## Working with remote repos
 
 +++
 
@@ -277,6 +277,13 @@ git push <remote> <branch>
 # same as fetch + merge
 git pull <remote>
 ```
+
+[Git cheetsheat](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
++++
+
+Place to add some more advanced demo
+
 ---
 
 
