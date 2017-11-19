@@ -62,11 +62,10 @@ Simple answer: to keep our files safe
 ## What is Git?
 
 ![gitlogo](images/gitlogo.png)
-* Created by Linus Torvalds 2005
-* Etymology - self-proclaimed git!
 
 *"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
 
+* Created by Linus Torvalds 2005
 * Originally written in Perl & C
 * Runs on many platforms
 * Most popular DVCS
