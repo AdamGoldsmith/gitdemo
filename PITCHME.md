@@ -259,7 +259,7 @@ Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-an
 @title[Working with remote repos - commands]
 #### Commands
 
-```
+```bash
 # list all remotes connected to your repo
 git remote -v
 # add new remote to repo
