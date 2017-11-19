@@ -74,7 +74,7 @@ Simple answer: to keep our files safe
 +++
 @title[Not Github!]
 
-Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Beanstalk ≈ GitKraken ≈ etc)
+Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Beanstalk ≈ etc)
 
 +++
 @title[Git Search History Rank]
