@@ -57,8 +57,6 @@ How do you track your changes?
 Simple answer: to keep our files safe
 	
 ---
-
----
 @title[What is Git?]
 
 ## What is Git?
