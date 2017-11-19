@@ -67,14 +67,14 @@ Simple answer: to keep our files safe
 
 *"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
 
-* Written in Perl & C
+* Originally written in Perl & C
 * Runs on many platforms
 * Most popular DVCS
 
 +++
 @title[Not Github!]
 
-Git ≠ Github
+Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Beanstalk ≈ GitKraken ≈ etc)
 
 +++
 @title[Git Search History Rank]
