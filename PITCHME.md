@@ -26,7 +26,8 @@ version control = source control = software tools (programs) used to help with f
 ---
 @title[Why do we use it?]
 
-<p>How do you track your changes?</p>
+How do you track your changes?
+
 <figure>
 <img src="images/without-vs.png" alt="without-vs">
 </figure>
@@ -38,7 +39,7 @@ version control = source control = software tools (programs) used to help with f
 <figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
 </figure>
 
-<p>Simple answer: to keep our files safe</p>
+Simple answer: to keep our files safe
 	
 ---
 
@@ -90,8 +91,8 @@ Version Control System
 +++
 @title[Git installation - Mac OSX]
 ### Mac OS X
-* brew install git
-* (or build from source with macports)
+* [brew](https://brew.sh/) install git
+* (or build from source with [macports](https://www.macports.org/))
 * [detailed instructions](https://git-scm.com/download/mac)
 +++
 @title[Git installation - Windows]
@@ -102,7 +103,7 @@ Version Control System
 @title[Git installation - Windows setup - license and path]
 ##### Windows setup
 
-* Read license (GNU General Public License)
+* Read license ([GNU General Public License](https://www.gnu.org/licenses/#GPL))
 * Set up install path (C:\Program Files\Git)
 +++
 @title[Git installation - Windows setup - components]
@@ -166,11 +167,25 @@ __Install!__
 +++
 @title[Git installation - links]
 ### Useful Links
+
 [Git customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
 [More windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 ---
-# Git setup
+# Working with remote repositories
++++
+##### Set up
+* Create an account
+* Generate ssh keys
+* Add ssh keys to your account
++++
+##### Generating keys
++++
+[![asciicast](https://asciinema.org/a/148261.png)](https://asciinema.org/a/148261)
++++
+
+
+
 
 
 
