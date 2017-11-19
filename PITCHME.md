@@ -172,7 +172,7 @@ __Install!__
 
 [More windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 ---
-# Working with remote repositories
+# Working with remote repos
 +++
 ##### Set up
 * Create an account
@@ -181,8 +181,15 @@ __Install!__
 +++
 ##### Generating keys
 +++
-<iframe src="https://asciinema.org/a/148261"></iframe>
+[![asciicast](https://asciinema.org/a/148261.png)](https://asciinema.org/a/148261)
 +++
+
+Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
+
++++
+##### Adding public key to account keys
+insert screenshot here
+
 
 
 
