@@ -96,7 +96,7 @@ Version Control System
 * download [git](https://git-scm.com/download/windows) and follow interactive installer
 * install with [chocolatey](https://chocolatey.org/packages/git)
 +++
-### Windows setup
+##### Windows setup
 
 * Read license (GNU General Public License)
 * Set up install path (C:\Program Files\Git)
@@ -128,6 +128,9 @@ Version Control System
 ##### Windows setup
 
 * Configuring the line ending conversions
+
+_Character for line ending is different for Unix ("\n") and Windows ("\r\n"), read more [here](https://en.wikipedia.org/wiki/Newline)_
+
     * __Checkout Windows-style, commit Unix style line endings__
     * Checkout as-is, commit Unix-style line endings
     * Checkout as-is, commit as-is
@@ -152,8 +155,8 @@ __Install!__
 +++
 
 ### Useful Links
-[Customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+[Git customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
-[Windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
+[More windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 ---
 
