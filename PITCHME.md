@@ -5,7 +5,6 @@
 > 24th November 2017
 
 ---
-
 @title[Hello]
 
 ## Presenters
@@ -15,7 +14,18 @@
 * Anthony Skidmore
 
 ---
+@title[Overview]
 
+## Overview
+
+* What is version control? 
+* Why use version control?
+* What is Git?
+* Installing Git
+* Working on Git locally
+* Working on Git remotely
+
+---
 @title[What is version control?]
 
 ## What is version control?
@@ -48,11 +58,32 @@ Simple answer: to keep our files safe
 	
 ---
 
+---
 @title[What is Git?]
 
 ## What is Git?
 
-Version Control System
+![gitlogo](images/gitlogo.png)
+* Created by Linus Torvalds 2005
+* Etymology - self-proclaimed git!
+
+*"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
+
+* Written in Perl & C
+* Runs on many platforms
+* Most popular DVCS
+
++++
+@title[Not Github!]
+
+Git ≠ Github
+
++++
+@title[Git Search History Rank]
+
+Git Search Interest Rank
+
+![git stats](images/git-stats.png)
 
 ---
 @title[History of VCS]
@@ -82,6 +113,11 @@ Version Control System
 3rd Generation
 * Changesets
 * Distributed
+
+---
+@title[Why use Git?]
+
+## Why use Git?
 
 ---
 
@@ -285,11 +321,4 @@ git pull <remote>
 Place to add some more advanced demo
 
 ---
-
-
-
-
-
-
-
 
