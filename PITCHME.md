@@ -181,7 +181,7 @@ __Install!__
 +++
 ##### Generating keys
 +++
-<iframe src="https://asciinema.org/a/148261.js" id="asciicast-148261" async></iframe>
+<iframe src="https://asciinema.org/a/148261"></iframe>
 +++
 
 
