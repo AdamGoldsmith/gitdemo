@@ -98,12 +98,12 @@ Version Control System
 +++
 ### Windows setup
 
-1. Read license (GNU General Public License)
-2. Set up install path (C:\Program Files\Git)
+* Read license (GNU General Public License)
+* Set up install path (C:\Program Files\Git)
 +++
 ### Windows setup
 
-3. Select components:
+* Select components:
     * Additional icons
     * Windows Explorer integration (Git Bash Here, Git GUI Here)
     * __Git LFS (Large File Support)__
@@ -113,34 +113,34 @@ Version Control System
 +++
 ### Windows setup
 
-4. Select Start Menu Folder (Git)
-5. Adjusting your PATH environment
+* Select Start Menu Folder (Git)
+* Adjusting your PATH environment
     * __Use Git from Git Bash only__
     * Use Git from Windows Command Prompt
     * Use Git and optional Unix tools from Windows Command Prompt
 +++
 ### Windows setup
 
-6. Choosing HTTP transport backend
+* Choosing HTTP transport backend
     * Use OpenSSL
     * __Use native Windows Secure Channel library__
 +++
 ### Windows setup
 
-7. Configuring the line ending conversions
+* Configuring the line ending conversions
     * __Checkout Windows-style, commit Unix style line endings__
     * Checkout as-is, commit Unix-style line endings
     * Checkout as-is, commit as-is
 +++
 ### Windows setup
 
-8. Configuring the terminal emulator to use with Git Bash
+* Configuring the terminal emulator to use with Git Bash
     * __Use MinTTY__
     * Use Windows’s default console window (cmd)
 +++
 ### Windows setup
 
-9. Extra options:
+* Extra options:
     * Enable file system caching
     * Enable Git Credential Manager
     * Enable symbolic links
