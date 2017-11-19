@@ -318,7 +318,9 @@ git pull <remote>
 Place to add some more advanced demo
 
 ---
-@title[Notes]
+@title[Closing]
+
+#### Cool observations
 
 * Learnt new Gitty things preparing content
 * Presentation created and maintained in Git
