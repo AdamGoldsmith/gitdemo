@@ -152,7 +152,7 @@ __Install!__
 +++
 
 ### Useful Links
-    * [Customizing Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
-    * [Windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
+[Customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+[Windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 ---
 
