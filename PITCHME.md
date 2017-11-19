@@ -79,6 +79,61 @@ Version Control System
 
 ---
 @title[Git installation]
++++
+Linux:
+* sudo apt-get install git
+* sudo yum install git
+* (or build from source)
+[detailed instructions](https://git-scm.com/download/linux)
++++
+Mac OS X:
+* brew install git
+* (or build from source with macports)
+[detailed instructions](https://git-scm.com/download/mac)
++++
+Windows:
+* download [git](https://git-scm.com/download/windows) and follow interactive installer
+* install with [chocolatey](https://chocolatey.org/packages/git)
++++
+Windows setup
+=======
+1. Read license (GNU General Public License)
+2. Set up install path (C:\Program Files\Git)
++++
+3. Select components:
+    * Additional icons
+    * Windows Explorer integration (Git Bash Here, Git GUI Here)
+    * __Git LFS (Large File Support)__
+    * __Associate .git configuration files with the default text editor__
+    * __Associate .sh files to be run with Bash__
+    * Use TrueType font in all consoles
++++
+4. Select Start Menu Folder (Git)
+5. Adjusting your PATH environment
+    * __Use Git from Git Bash only__
+    * Use Git from Windows Command Prompt
+    * Use Git and optional Unix tools from Windows Command Prompt
++++
+6. Choosing HTTP transport backend
+    * Use OpenSSL
+    * __Use native Windows Secure Channel library__
++++
+7. Configuring the line ending conversions
+    * __Checkout Windows-style, commit Unix style line endings__
+    * Checkout as-is, commit Unix-style line endings
+    * Checkout as-is, commit as-is
++++
+8. Configuring the terminal emulator to use with Git Bash
+    * __Use MinTTY__
+    * Use Windows’s default console window (cmd)
++++
+9. Extra options:
+* Enable file system caching
+* Enable Git Credential Manager
+* Enable symbolic links
++++
+Install!
++++
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 ---
 
