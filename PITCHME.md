@@ -186,7 +186,9 @@ __Install!__
 * Add ssh keys to your account
 +++
 ##### Generating keys
+
 _Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub/BitBucket/Innersource/... without supplying your username or password at each visit._
+
 +++
 [![asciicast](https://asciinema.org/a/148261.png)](https://asciinema.org/a/148261)
 +++
@@ -198,6 +200,9 @@ Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-an
 ##### Adding public key to account keys
 
 <img src="images/sshkey.png" alt="sshkeysscreenshot">
+
+#### Create repo on GitHub
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z8nnO3u1MZE" frameborder="0" gesture="media" allowfullscreen></iframe>
 ---
 
 
