@@ -5,6 +5,7 @@
 > 24th November 2017
 
 ---
+
 @title[Hello]
 
 ## Presenters
@@ -14,16 +15,19 @@
 * Anthony Skidmore
 
 ---
+
 @title[What is version control?]
 
 ## What is version control?
 
 +++
+
 @title[What is version control?]
 
 version control = source control = software tools (programs) used to help with files management
 
 ---
+
 @title[Why do we use it?]
 
 How do you track your changes?
@@ -33,6 +37,7 @@ How do you track your changes?
 </figure>
 
 +++
+
 ## Why do we use it?
 <figure>
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
@@ -79,33 +84,44 @@ Version Control System
 * Distributed
 
 ---
+
 @title[Git installation]
 # Git installation
+
 +++
+
 @title[Git installation - Linux]
 ### Linux
 * sudo apt-get install git
 * sudo yum install git
 * (or build from source)
 * [detailed instructions](https://git-scm.com/download/linux)
+
 +++
+
 @title[Git installation - Mac OSX]
 ### Mac OS X
 * [brew](https://brew.sh/) install git
 * (or build from source with [macports](https://www.macports.org/))
 * [detailed instructions](https://git-scm.com/download/mac)
+
 +++
+
 @title[Git installation - Windows]
 ### Windows
 * download [git](https://git-scm.com/download/windows) and follow interactive installer
 * install with [chocolatey](https://chocolatey.org/packages/git)
+
 +++
+
 @title[Git installation - Windows setup - license and path]
 ##### Windows setup
 
 * Read license ([GNU General Public License](https://www.gnu.org/licenses/#GPL))
 * Set up install path (C:\Program Files\Git)
+
 +++
+
 @title[Git installation - Windows setup - components]
 ##### Windows setup
 
@@ -116,7 +132,9 @@ Version Control System
     * __Associate .git configuration files with the default text editor__
     * __Associate .sh files to be run with Bash__
     * Use TrueType font in all consoles
+
 +++
+
 @title[Git installation - Windows setup - environment]
 ##### Windows setup
 
@@ -125,14 +143,18 @@ Version Control System
     * __Use Git from Git Bash only__
     * Use Git from Windows Command Prompt
     * Use Git and optional Unix tools from Windows Command Prompt
+
 +++
+
 @title[Git installation - Windows setup - HTTPS backend]
 ##### Windows setup
 
 * Choosing HTTP transport backend
     * Use OpenSSL
     * __Use native Windows Secure Channel library__
+
 +++
+
 @title[Git installation - Windows setup - line endings]
 ##### Windows setup
 
@@ -141,14 +163,18 @@ Version Control System
     * __Checkout Windows-style, commit Unix style line endings__
     * Checkout as-is, commit Unix-style line endings
     * Checkout as-is, commit as-is
+
 +++
+
 @title[Git installation - Windows setup - terminal]
 ##### Windows setup
 
 * Configuring the terminal emulator to use with Git Bash
     * __Use MinTTY__
     * Use Windows’s default console window (cmd)
+
 +++
+
 @title[Git installation - Windows setup - extras]
 ##### Windows setup
 
@@ -156,54 +182,103 @@ Version Control System
     * Enable file system caching
     * Enable Git Credential Manager
     * Enable symbolic links
+
 +++
+
 @title[Git installation - Windows setup - final]
 ##### Windows setup
 __Install!__
+
 +++
+
 @title[Git installation - Windows setup - demo]
 ##### Windows setup demo
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
+
 +++
+
 @title[Git installation - Basic git setup - demo]
 ##### Basic git setup
 
 [![asciicast](https://asciinema.org/a/148260.png)](https://asciinema.org/a/148260)
 
 +++
+
 @title[Git installation - links]
 ### Useful Links
 
 [Git customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
 [More windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
+
 ---
+
+@title[Working with remote repos]
 # Working with remote repos
+
 +++
+
+@title[Working with remote repos - setup]
 ##### Remote set up
 * Create an account
 * Generate ssh keys
 * Add ssh keys to your account
+
 +++
+
+@title[Working with remote repos - ssh keys]
 ##### Generating keys
 
 _Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub/BitBucket/Innersource/... without supplying your username or password at each visit._
 
 +++
+
+@title[Working with remote repos - generating keys demo]
 [![asciicast](https://asciinema.org/a/148261.png)](https://asciinema.org/a/148261)
+
 +++
 
+@title[Working with remote repos - detailed instructions]
 Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
 
 +++
 
+@title[Working with remote repos - adding keys]
 ##### Adding public key to account keys
 
 <img src="images/sshkey.png" alt="sshkeysscreenshot">
+
 +++
+
+@title[Working with remote repos - create repo - demo]
 #### Create repo on GitHub
 <iframe width="560" height="315" src="https://www.youtube.com/embed/inSe13Au5tg" frameborder="0" gesture="media" allowfullscreen></iframe>
+
++++
+
+@title[Working with remote repos - commands]
+#### Commands
+
+```
+# list all remotes connected to your repo
+git remote -v
+# add new remote to repo
+git remote add <name> <url>
+# remove remote from repo
+git remote rm <name>
+# import commits from remote repo
+git fetch <remote>
+# shows changes between current and selected commit
+git diff <commit>
+# merges changes
+git merge
+# push commits to remote repo
+git push <remote> <branch>
+# same as fetch + merge
+git pull <remote>
+```
 ---
+
 
 
 
