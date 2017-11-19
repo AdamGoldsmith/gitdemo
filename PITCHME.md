@@ -149,5 +149,10 @@ Version Control System
 __Install!__
 +++
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
++++
+
+### Useful Links
+    * [Customizing Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+    * [Windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 ---
 
