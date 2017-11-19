@@ -127,10 +127,8 @@ Version Control System
 +++
 ##### Windows setup
 
+<small>_Character for line ending is different for Unix ("\n") and Windows ("\r\n"), read more [here](https://en.wikipedia.org/wiki/Newline)_</small>
 * Configuring the line ending conversions
-
-_Character for line ending is different for Unix ("\n") and Windows ("\r\n"), read more [here](https://en.wikipedia.org/wiki/Newline)_
-
     * __Checkout Windows-style, commit Unix style line endings__
     * Checkout as-is, commit Unix-style line endings
     * Checkout as-is, commit as-is
