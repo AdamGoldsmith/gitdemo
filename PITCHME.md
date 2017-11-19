@@ -79,27 +79,30 @@ Version Control System
 
 ---
 @title[Git installation]
+# Git installation
 +++
-Linux:
+### Linux
 * sudo apt-get install git
 * sudo yum install git
 * (or build from source)
-[detailed instructions](https://git-scm.com/download/linux)
+* [detailed instructions](https://git-scm.com/download/linux)
 +++
-Mac OS X:
+### Mac OS X
 * brew install git
 * (or build from source with macports)
-[detailed instructions](https://git-scm.com/download/mac)
+* [detailed instructions](https://git-scm.com/download/mac)
 +++
-Windows:
+### Windows
 * download [git](https://git-scm.com/download/windows) and follow interactive installer
 * install with [chocolatey](https://chocolatey.org/packages/git)
 +++
-Windows setup
+### Windows setup
 =======
 1. Read license (GNU General Public License)
 2. Set up install path (C:\Program Files\Git)
 +++
+### Windows setup
+=======
 3. Select components:
     * Additional icons
     * Windows Explorer integration (Git Bash Here, Git GUI Here)
@@ -108,30 +111,42 @@ Windows setup
     * __Associate .sh files to be run with Bash__
     * Use TrueType font in all consoles
 +++
+### Windows setup
+=======
 4. Select Start Menu Folder (Git)
 5. Adjusting your PATH environment
     * __Use Git from Git Bash only__
     * Use Git from Windows Command Prompt
     * Use Git and optional Unix tools from Windows Command Prompt
 +++
+### Windows setup
+=======
 6. Choosing HTTP transport backend
     * Use OpenSSL
     * __Use native Windows Secure Channel library__
 +++
+### Windows setup
+=======
 7. Configuring the line ending conversions
     * __Checkout Windows-style, commit Unix style line endings__
     * Checkout as-is, commit Unix-style line endings
     * Checkout as-is, commit as-is
 +++
+### Windows setup
+=======
 8. Configuring the terminal emulator to use with Git Bash
     * __Use MinTTY__
     * Use Windows’s default console window (cmd)
 +++
+### Windows setup
+=======
 9. Extra options:
 * Enable file system caching
 * Enable Git Credential Manager
 * Enable symbolic links
 +++
+### Windows setup
+=======
 Install!
 +++
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
