@@ -101,17 +101,17 @@ Version Control System
 * Read license (GNU General Public License)
 * Set up install path (C:\Program Files\Git)
 +++
-### Windows setup
+##### Windows setup
 
 * Select components:
-    * [ ] Additional icons
-    * [ ] Windows Explorer integration (Git Bash Here, Git GUI Here)
-    * [X] __Git LFS (Large File Support)__
-    * [X] __Associate .git configuration files with the default text editor__
-    * [X] __Associate .sh files to be run with Bash__
-    * [ ] Use TrueType font in all consoles
+    * Additional icons
+    * Windows Explorer integration (Git Bash Here, Git GUI Here)
+    * __Git LFS (Large File Support)__
+    * __Associate .git configuration files with the default text editor__
+    * __Associate .sh files to be run with Bash__
+    * Use TrueType font in all consoles
 +++
-### Windows setup
+##### Windows setup
 
 * Select Start Menu Folder (Git)
 * Adjusting your PATH environment
@@ -119,34 +119,34 @@ Version Control System
     * Use Git from Windows Command Prompt
     * Use Git and optional Unix tools from Windows Command Prompt
 +++
-### Windows setup
+##### Windows setup
 
 * Choosing HTTP transport backend
     * Use OpenSSL
     * __Use native Windows Secure Channel library__
 +++
-### Windows setup
+##### Windows setup
 
 * Configuring the line ending conversions
     * __Checkout Windows-style, commit Unix style line endings__
     * Checkout as-is, commit Unix-style line endings
     * Checkout as-is, commit as-is
 +++
-### Windows setup
+##### Windows setup
 
 * Configuring the terminal emulator to use with Git Bash
     * __Use MinTTY__
     * Use Windows’s default console window (cmd)
 +++
-### Windows setup
+##### Windows setup
 
 * Extra options:
     * Enable file system caching
     * Enable Git Credential Manager
     * Enable symbolic links
 +++
-### Windows setup
-Install!
+##### Windows setup
+__Install!__
 +++
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 ---
