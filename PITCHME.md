@@ -81,26 +81,31 @@ Version Control System
 @title[Git installation]
 # Git installation
 +++
+@title[Git installation - Linux]
 ### Linux
 * sudo apt-get install git
 * sudo yum install git
 * (or build from source)
 * [detailed instructions](https://git-scm.com/download/linux)
 +++
+@title[Git installation - Mac OSX]
 ### Mac OS X
 * brew install git
 * (or build from source with macports)
 * [detailed instructions](https://git-scm.com/download/mac)
 +++
+@title[Git installation - Windows]
 ### Windows
 * download [git](https://git-scm.com/download/windows) and follow interactive installer
 * install with [chocolatey](https://chocolatey.org/packages/git)
 +++
+@title[Git installation - Windows setup - license and path]
 ##### Windows setup
 
 * Read license (GNU General Public License)
 * Set up install path (C:\Program Files\Git)
 +++
+@title[Git installation - Windows setup - components]
 ##### Windows setup
 
 * Select components:
@@ -111,6 +116,7 @@ Version Control System
     * __Associate .sh files to be run with Bash__
     * Use TrueType font in all consoles
 +++
+@title[Git installation - Windows setup - environment]
 ##### Windows setup
 
 * Select Start Menu Folder (Git)
@@ -119,12 +125,14 @@ Version Control System
     * Use Git from Windows Command Prompt
     * Use Git and optional Unix tools from Windows Command Prompt
 +++
+@title[Git installation - Windows setup - HTTPS backend]
 ##### Windows setup
 
 * Choosing HTTP transport backend
     * Use OpenSSL
     * __Use native Windows Secure Channel library__
 +++
+@title[Git installation - Windows setup - line endings]
 ##### Windows setup
 
 <small>_Character for line ending is different for Unix ("\n") and Windows ("\r\n"), read more [here](https://en.wikipedia.org/wiki/Newline)_</small>
@@ -133,12 +141,14 @@ Version Control System
     * Checkout as-is, commit Unix-style line endings
     * Checkout as-is, commit as-is
 +++
+@title[Git installation - Windows setup - terminal]
 ##### Windows setup
 
 * Configuring the terminal emulator to use with Git Bash
     * __Use MinTTY__
     * Use Windows’s default console window (cmd)
 +++
+@title[Git installation - Windows setup - extras]
 ##### Windows setup
 
 * Extra options:
@@ -146,15 +156,21 @@ Version Control System
     * Enable Git Credential Manager
     * Enable symbolic links
 +++
+@title[Git installation - Windows setup - final]
 ##### Windows setup
 __Install!__
 +++
+@title[Git installation - Windows setup - demo]
+##### Windows setup demo
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 +++
-
+@title[Git installation - links]
 ### Useful Links
 [Git customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
 [More windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 ---
+# Git setup
+
+
 
