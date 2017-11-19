@@ -197,7 +197,7 @@ Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-an
 ##### Adding public key to account keys
 
 <img src="images/sshkey.png" alt="sshkeysscreenshot">
-
+---
 
 
 
