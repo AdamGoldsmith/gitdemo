@@ -186,6 +186,7 @@ __Install!__
 * Add ssh keys to your account
 +++
 ##### Generating keys
+_Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub/BitBucket/Innersource/... without supplying your username or password at each visit._
 +++
 [![asciicast](https://asciinema.org/a/148261.png)](https://asciinema.org/a/148261)
 +++
