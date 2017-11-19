@@ -318,4 +318,10 @@ git pull <remote>
 Place to add some more advanced demo
 
 ---
+@title[Notes]
+
+* Learnt new Gitty things preparing content
+* Presentation created and maintained in Git
+* Feels good to collaborate and contribute
+
 
