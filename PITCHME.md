@@ -104,12 +104,12 @@ Version Control System
 ### Windows setup
 
 * Select components:
-    * Additional icons
-    * Windows Explorer integration (Git Bash Here, Git GUI Here)
-    * __Git LFS (Large File Support)__
-    * __Associate .git configuration files with the default text editor__
-    * __Associate .sh files to be run with Bash__
-    * Use TrueType font in all consoles
+    * []Additional icons
+    * []Windows Explorer integration (Git Bash Here, Git GUI Here)
+    * [X]__Git LFS (Large File Support)__
+    * [X]__Associate .git configuration files with the default text editor__
+    * [X]__Associate .sh files to be run with Bash__
+    * []Use TrueType font in all consoles
 +++
 ### Windows setup
 
