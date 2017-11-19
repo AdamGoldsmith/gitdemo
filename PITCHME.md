@@ -34,7 +34,7 @@
 * Created by Linus Torvalds 2005
 * Etymology - self-proclaimed git!
 
-...*"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
+*"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
 
 * Written in Perl & C
 * Runs on many platforms
