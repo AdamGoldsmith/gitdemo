@@ -165,6 +165,12 @@ __Install!__
 ##### Windows setup demo
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 +++
+@title[Git installation - Basic git setup - demo]
+##### Basic git setup
+
+[![asciicast](https://asciinema.org/a/148260.png)](https://asciinema.org/a/148260)
+
++++
 @title[Git installation - links]
 ### Useful Links
 
@@ -174,7 +180,7 @@ __Install!__
 ---
 # Working with remote repos
 +++
-##### Set up
+##### Remote set up
 * Create an account
 * Generate ssh keys
 * Add ssh keys to your account
@@ -187,9 +193,11 @@ __Install!__
 Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
 
 +++
+
 ##### Adding public key to account keys
 
 <img src="images/sshkey.png" alt="sshkeysscreenshot">
+
 
 
 
