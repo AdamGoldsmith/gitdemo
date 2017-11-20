@@ -9,9 +9,27 @@
 
 ## Presenters
 
-* Katarzyna Siedlarek
-* Adam Goldsmith
-* Anthony Skidmore
++++
+@title[Kasia]
+
+### Katarzyna Siedlarek
+
+
++++
+@title[Adam]
+### Adam Goldsmith
+
+![adamg](images/adam-g.png)
+
+
+* Unix guy
+* 1995 - IBM
+* 2005 - Accenture
+* 2014 - Lands End to John o'Groats
+
++++
+@title[Tony]
+### Anthony Skidmore
 
 ---
 @title[Overview]
