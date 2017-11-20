@@ -49,11 +49,12 @@
 
 ### History of VCS
 
-| 1st Gen       | 2nd Gen     | 3rd Gen     |
-| ------------- |-------------| ------------|
-| 1970s         |             |             |
-| Single file   | Multi file  | Changesets  |
-| No networking | Centralised | Distributed |
+
+1st Gen       | 2nd Gen     | 3rd Gen
+------------- |-------------| ------------
+1970s         |             |
+Single file   | Multi file  | Changesets
+No networking | Centralised | Distributed
 
 +++
 @title[1st Gen]
