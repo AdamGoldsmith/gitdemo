@@ -227,6 +227,7 @@ __Install!__
 
 @title[Git installation - Windows setup - demo]
 ##### Windows setup demo
+
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 
 +++
