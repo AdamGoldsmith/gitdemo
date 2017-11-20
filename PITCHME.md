@@ -52,31 +52,9 @@
 
 1st Gen       | 2nd Gen     | 3rd Gen
 ------------- |-------------| ------------
-1970s         |             |
-Single file   | Multi file  | Changesets
+1972          | 1986        | Late 1990s
 No networking | Centralised | Distributed
-
-+++
-@title[1st Gen]
-
-1st Generation
-* 1970s
-* Single File
-* No networking
-
-+++
-@title[2nd Gen]
-
-2nd Generation
-* Multi File
-* Centralised
-
-+++
-@title[3rd Gen]
-
-3rd Generation
-* Changesets
-* Distributed
+Single file   | Multi file  | Changesets
 
 +++
 @title[What is version control?]
@@ -263,52 +241,64 @@ __Install!__
 
 ## Working on Git locally
 
++++
+@title[The D in DVCS]
+
+### Distributed (or Decentralised)
+
++++
+@title[Different Git Areas]
+
+### Different areas in Git
+
+![git-areas](images/git-areas.png)
+
 ---
 @title[Working with remote repos]
 
 ## Working with remote repos
 
 +++
-
 @title[Working with remote repos - setup]
+
 ##### Remote set up
 * Create an account
 * Generate ssh keys
 * Add ssh keys to your account
 
 +++
-
 @title[Working with remote repos - ssh keys]
+
 ##### Generating keys
 
 _Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub/BitBucket/Innersource/... without supplying your username or password at each visit._
 
 +++
-
 @title[Working with remote repos - generating keys demo]
+
 [![asciicast](https://asciinema.org/a/148261.png)](https://asciinema.org/a/148261)
 
 +++
-
 @title[Working with remote repos - detailed instructions]
+
 Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
 
 +++
-
 @title[Working with remote repos - adding keys]
+
 ##### Adding public key to account keys
 
 <img src="images/sshkey.png" alt="sshkeysscreenshot">
 
 +++
-
 @title[Working with remote repos - create repo - demo]
+
 #### Create repo on GitHub
 <iframe width="560" height="315" src="https://www.youtube.com/embed/inSe13Au5tg" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 +++
-
 @title[Working with remote repos - commands]
+
 #### Commands
 
 ```bash
