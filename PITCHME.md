@@ -14,7 +14,6 @@
 
 ### Katarzyna Siedlarek
 
-
 +++
 @title[Adam]
 ### Adam Goldsmith
@@ -30,6 +29,9 @@
 
 ## Overview
 
++++
+@title[Contents]
+
 * What is version control? 
 * Why use version control?
 * What is Git?
@@ -43,63 +45,9 @@
 ## What is version control?
 
 +++
-
-@title[What is version control?]
-
-version control = source control = software tools (programs) used to help with files management
-
----
-
-@title[Why do we use it?]
-
-How do you track your changes?
-
-<figure>
-<img src="images/without-vs.png" alt="without-vs">
-</figure>
-
-+++
-
-## Why do we use it?
-<figure>
-<img src="images/vc-xkcd.jpg" alt="xkcd-vc">
-<figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
-</figure>
-
-Simple answer: to keep our files safe
-	
----
-@title[What is Git?]
-
-## What is Git?
-
-![gitlogo](images/gitlogo.png)
-
-*"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
-
-* Created by Linus Torvalds 2005
-* Originally written in Perl & C
-* Runs on many platforms
-* Most popular DVCS
-
-+++
-@title[Not Github!]
-
-Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Beanstalk ≈ etc)
-
-+++
-@title[Git Search History Rank]
-
-Git Search Interest Rank
-
-![git stats](images/git-stats.png)
-
----
 @title[History of VCS]
 
 ## History of VCS
-
-![Down Key](images/down.png)
 
 +++
 @title[1st Gen]
@@ -123,19 +71,66 @@ Git Search Interest Rank
 * Changesets
 * Distributed
 
++++
+@title[What is version control?]
+
+version control = source control = software tools (programs) used to help with files management
+
 ---
-@title[Why use Git?]
+@title[Why do we use it?]
 
-## Why use Git?
+How do you track your changes?
+
+<figure>
+<img src="images/without-vs.png" alt="without-vs">
+</figure>
+
++++
+
+## Why do we use it?
+<figure>
+<img src="images/vc-xkcd.jpg" alt="xkcd-vc">
+<figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
+</figure>
+
+Simple answer: to keep our files safe
+	
+---
+@title[What is Git?]
+
+## What is Git?
+
++++
+@title[Git is..]
+
+![gitlogo](images/gitlogo.png)
+
+*"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
+
+* Created by Linus Torvalds 2005
+* Originally written in Perl & C
+* Runs on many platforms
+* Most popular DVCS
+
++++
+@title[Git is not..]
+
+Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Beanstalk ≈ etc)
+
++++
+@title[Git Search History Rank]
+
+Git Search Interest Rank
+
+![git stats](images/git-stats.png)
 
 ---
-
 @title[Git installation]
 ## Git installation
 
 +++
-
 @title[Git installation - Linux]
+
 ### Linux
 * sudo apt-get install git
 * sudo yum install git
@@ -143,31 +138,31 @@ Git Search Interest Rank
 * [detailed instructions](https://git-scm.com/download/linux)
 
 +++
-
 @title[Git installation - Mac OSX]
+
 ### Mac OS X
 * [brew](https://brew.sh/) install git
 * (or build from source with [macports](https://www.macports.org/))
 * [detailed instructions](https://git-scm.com/download/mac)
 
 +++
-
 @title[Git installation - Windows]
+
 ### Windows
 * download [git](https://git-scm.com/download/windows) and follow interactive installer
 * install with [chocolatey](https://chocolatey.org/packages/git)
 
 +++
-
 @title[Git installation - Windows setup - license and path]
+
 ##### Windows setup
 
 * Read license ([GNU General Public License](https://www.gnu.org/licenses/#GPL))
 * Set up install path (C:\Program Files\Git)
 
 +++
-
 @title[Git installation - Windows setup - components]
+
 ##### Windows setup
 
 * Select components:
@@ -179,8 +174,8 @@ Git Search Interest Rank
     * Use TrueType font in all consoles
 
 +++
-
 @title[Git installation - Windows setup - environment]
+
 ##### Windows setup
 
 * Select Start Menu Folder (Git)
@@ -190,8 +185,8 @@ Git Search Interest Rank
     * Use Git and optional Unix tools from Windows Command Prompt
 
 +++
-
 @title[Git installation - Windows setup - HTTPS backend]
+
 ##### Windows setup
 
 * Choosing HTTP transport backend
@@ -199,8 +194,8 @@ Git Search Interest Rank
     * __Use native Windows Secure Channel library__
 
 +++
-
 @title[Git installation - Windows setup - line endings]
+
 ##### Windows setup
 
 <small>_Character for line ending is different for Unix ("\n") and Windows ("\r\n"), read more [here](https://en.wikipedia.org/wiki/Newline)_</small>
@@ -210,8 +205,8 @@ Git Search Interest Rank
     * Checkout as-is, commit as-is
 
 +++
-
 @title[Git installation - Windows setup - terminal]
+
 ##### Windows setup
 
 * Configuring the terminal emulator to use with Git Bash
@@ -219,8 +214,8 @@ Git Search Interest Rank
     * Use Windows’s default console window (cmd)
 
 +++
-
 @title[Git installation - Windows setup - extras]
+
 ##### Windows setup
 
 * Extra options:
@@ -229,27 +224,27 @@ Git Search Interest Rank
     * Enable symbolic links
 
 +++
-
 @title[Git installation - Windows setup - final]
+
 ##### Windows setup
 __Install!__
 
 +++
-
 @title[Git installation - Windows setup - demo]
+
 ##### Windows setup demo
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 
 +++
-
 @title[Git installation - Basic git setup - demo]
+
 ##### Basic git setup
 
 [![asciicast](https://asciinema.org/a/148260.png)](https://asciinema.org/a/148260)
 
 +++
-
 @title[Git installation - links]
+
 ### Useful Links
 
 [Git customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
@@ -257,8 +252,13 @@ __Install!__
 [More windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 
 ---
+@title[Working on Git locally]
 
+## Working on Git locally
+
+---
 @title[Working with remote repos]
+
 ## Working with remote repos
 
 +++
