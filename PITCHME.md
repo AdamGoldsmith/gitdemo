@@ -19,7 +19,7 @@
 @title[Adam]
 ### Adam Goldsmith
 
-![adamg](images/adam-g.png)
+![adamg](images/adamg.png)
 
 
 * Unix guy
