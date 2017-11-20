@@ -40,7 +40,17 @@ version control = source control = software tools (programs) used to help with f
 
 @title[Why do we use it?]
 
-How do you track your changes?
+<figure>
+<img src="images/iwantyou.jpg" alt="iwantyou">
+</figure>
+
++++
+
+<figure>
+<img src="images/verybadexample.jpg" alt="badexample">
+</figure>
+
++++
 
 <figure>
 <img src="images/without-vs.png" alt="without-vs">
