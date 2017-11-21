@@ -57,6 +57,14 @@ No networking | Centralised | Distributed
 Single file   | Multi file  | Changesets
 
 +++
+@title[Centralised vs Distributed]
+
+Centralised | Distributed
+------------|-------------
+![deltas](images/deltas.png) | ![snapshots](images/snapshots.png)
+
+
++++
 @title[What is version control?]
 
 version control = source control = software tools (programs) used to help with files management
