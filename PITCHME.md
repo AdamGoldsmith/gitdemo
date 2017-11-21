@@ -50,19 +50,19 @@
 ### History of VCS
 
 
-1st Gen       | 2nd Gen     | 3rd Gen
---------------|-------------|-------------
-1972          | 1986        | Late 1990s
-No networking | Centralised | Distributed
-Single file   | Multi file  | Changesets
+| 1st Gen       | 2nd Gen     | 3rd Gen     |
+|---------------|-------------|-------------|
+| 1972          | 1986        | Late 1990s  |
+| No networking | Centralised | Distributed |
+| Single file   | Multi file  | Changesets  |
 
 +++
 @title[Centralised vs Distributed]
 
-Type        | Process
-------------|-----------------------------------
-Centralised | ![deltas](images/deltas.png)
-Distributed | ![snapshots](images/snapshots.png)
+| Process                            | 
+|------------------------------------|
+| ![deltas](images/deltas.png)       |
+| ![snapshots](images/snapshots.png) |
 
 
 +++
