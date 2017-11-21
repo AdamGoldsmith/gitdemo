@@ -1,5 +1,6 @@
 ---?image=images/title_bg.png
 @title[TITLE]
+
 ## An Introduction to
 ## Version Control
 > 24th November 2017
@@ -16,12 +17,14 @@
 
 +++
 @title[Adam]
+
 ### Adam Goldsmith
 
 ![adamg](images/adamg.png)
 
 +++
 @title[Tony]
+
 ### Tony Skidmore
 
 ---
@@ -61,6 +64,10 @@
 +++
 @title[Centralised vs Distributed]
 
+#### 
+
+![CVS vs DVCS](https://www.youtube.com/embed/mkiDkkdGGAQ)
+
 +++
 @title[What is version control?]
 
@@ -68,6 +75,11 @@ version control = source control = software tools (programs) used to help with f
 
 ---
 @title[Why do we use it?]
+
+## Why use version control?
+
++++
+@title[How do you track your changes?"
 
 How do you track your changes?
 
@@ -77,7 +89,6 @@ How do you track your changes?
 
 +++
 
-## Why do we use it?
 <figure>
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
 <figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
