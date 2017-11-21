@@ -32,14 +32,14 @@
 +++
 @title[Contents]
 
-* What is version control? 
-* Why use version control?
-* What is Git?
-* Installing Git
-* Working on Git locally
-* Working on Git remotely
-* Take a look at Innersource
-* Interactive Demo of GitLab
+* What is version control? |
+* Why use version control? |
+* What is Git? |
+* Installing Git |
+* Working on Git locally |
+* Working on Git remotely |
+* Take a look at Innersource |
+* Interactive Demo of GitLab |
 
 ---
 @title[What is version control?]
