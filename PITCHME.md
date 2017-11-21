@@ -347,6 +347,7 @@ Place to add some more advanced demo
 
 * Learnt new Gitty things preparing content
 * Presentation created and maintained in Git
+* Content produced using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki)
 * Feels good to collaborate and contribute
 
 
