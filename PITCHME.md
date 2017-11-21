@@ -1,7 +1,7 @@
 ---?image=images/title_bg.png
 @title[TITLE]
-## Version Control
-## For Beginners
+## An Introduction
+## to Version Control
 > 24th November 2017
 
 ---
