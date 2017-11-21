@@ -12,7 +12,7 @@
 +++
 @title[Kasia]
 
-### Katarzyna Siedlarek
+### Kasia Siedlarek
 
 +++
 @title[Adam]
@@ -22,7 +22,7 @@
 
 +++
 @title[Tony]
-### Anthony Skidmore
+### Tony Skidmore
 
 ---
 @title[Overview]
@@ -38,6 +38,8 @@
 * Installing Git
 * Working on Git locally
 * Working on Git remotely
+* Take a look at Innersource
+* Interactive Demo of GitLab
 
 ---
 @title[What is version control?]
@@ -58,10 +60,6 @@
 
 +++
 @title[Centralised vs Distributed]
-
-### CVS / DCVS
-
-![cvs-dcvs](images/cvs-dcvs.png)
 
 +++
 @title[What is version control?]
@@ -107,7 +105,14 @@ Simple answer: to keep our files safe
 +++
 @title[Git is not..]
 
-Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Beanstalk ≈ etc)
+Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Innersource ≈ etc)
+
++++
+@title[How Git is different]
+
+![git-changesets](images/git-changesets.png)
+
+[Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 +++
 @title[Git Search History Rank]
