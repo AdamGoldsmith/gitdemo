@@ -51,7 +51,7 @@
 
 
 1st Gen       | 2nd Gen     | 3rd Gen
-------------- |-------------| ------------
+--------------|-------------|-------------
 1972          | 1986        | Late 1990s
 No networking | Centralised | Distributed
 Single file   | Multi file  | Changesets
