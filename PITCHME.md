@@ -52,7 +52,8 @@
 +++
 @title[History of VCS]
 
-#### History of VCS (Version Control Systems)
+#### History of VCS
+#### (Version Control Systems)
 
 
 | 1st Gen       | 2nd Gen     | 3rd Gen     |
