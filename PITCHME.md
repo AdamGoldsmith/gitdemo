@@ -64,7 +64,7 @@
 +++
 @title[Centralised vs Distributed]
 
-![CVCS vs DVCS](https://youtu.be/_yQlKEq-Ueg)
+![CVCS vs DVCS](https://www.youtube.com/embed/_yQlKEq-Ueg)
 
 +++
 @title[What is version control?]
