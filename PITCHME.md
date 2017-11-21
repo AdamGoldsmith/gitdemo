@@ -61,9 +61,7 @@
 
 ### Centralised vs Distributed
 
-![deltas](images/deltas.png)
-![snapshots](images/snapshots.png)
-
+![cvs-dcvs](images/cvs-dcvs.png)
 
 +++
 @title[What is version control?]
