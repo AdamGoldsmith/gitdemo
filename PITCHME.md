@@ -59,7 +59,7 @@
 +++
 @title[Centralised vs Distributed]
 
-### Centralised vs Distributed
+### CVS / DCVS
 
 ![cvs-dcvs](images/cvs-dcvs.png)
 
