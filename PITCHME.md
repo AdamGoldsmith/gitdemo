@@ -64,8 +64,6 @@
 +++
 @title[Centralised vs Distributed]
 
-Centralised (CVCS) vs Distributed (DVCS)
-
 ![CVCS vs DVCS](https://youtu.be/_yQlKEq-Ueg)
 
 +++
