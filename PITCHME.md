@@ -59,10 +59,10 @@
 +++
 @title[Centralised vs Distributed]
 
-| Process                            | 
-|------------------------------------|
-| ![deltas](images/deltas.png)       |
-| ![snapshots](images/snapshots.png) |
+Process                            | 
+-----------------------------------|
+![deltas](images/deltas.png)       |
+![snapshots](images/snapshots.png) |
 
 
 +++
