@@ -59,7 +59,7 @@ Single file   | Multi file  | Changesets
 +++
 @title[Centralised vs Distributed]
 
-            |
+Type        | Process
 ------------|-----------------------------------
 Centralised | ![deltas](images/deltas.png)
 Distributed | ![snapshots](images/snapshots.png)
