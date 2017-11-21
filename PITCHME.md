@@ -59,9 +59,8 @@ Single file   | Multi file  | Changesets
 +++
 @title[Centralised vs Distributed]
 
-Centralised | Distributed
-------------|-------------
-![deltas](images/deltas.png) | ![snapshots](images/snapshots.png)
+Centralised | ![deltas](images/deltas.png)
+Distributed | ![snapshots](images/snapshots.png)
 
 
 +++
