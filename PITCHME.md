@@ -52,7 +52,7 @@
 +++
 @title[History of VCS]
 
-### History of VCS
+#### History of VCS (Version Control Systems)
 
 
 | 1st Gen       | 2nd Gen     | 3rd Gen     |
@@ -263,11 +263,6 @@ __Install!__
 @title[Working on Git locally]
 
 ## Working on Git locally
-
-+++
-@title[The D in DVCS]
-
-### Distributed (or Decentralised)
 
 +++
 @title[Different Git Areas]
