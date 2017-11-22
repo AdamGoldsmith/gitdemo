@@ -62,9 +62,10 @@
 | No networking | Centralised | Distributed |
 | Single file   | Multi file  | Changesets  |
 
-+++?video=https://www.youtube.com/embed/_yQlKEq-Ueg
++++
 @title[Centralised vs Distributed]
 
+![CVCS vs DVCS](https://www.youtube.com/embed/_yQlKEq-Ueg)
 
 +++
 @title[What is version control?]
