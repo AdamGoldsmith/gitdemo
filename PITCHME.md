@@ -44,6 +44,12 @@
 - Take a look at Innersource |
 - Interactive Demo of GitLab |
 
++++
+
+You can access presentation here: 
+
+https://gitpitch.com/AdamGoldsmith/gitdemo#/
+
 ---
 @title[What is version control?]
 
@@ -82,20 +88,21 @@
 ## Why use version control?
 
 +++
-@title[How do you track your changes?"
+@title[How do you track your changes?]
 
-How do you track your changes?
 <figure>
 <img src="images/iwantyou.jpg" alt="iwantyou">
 </figure>
 
 +++
+@title[Bad example 1]
 
 <figure>
 <img src="images/verybadexample.jpg" alt="badexample">
 </figure>
 
 +++
+@title[Bad example 2]
 
 <figure>
 <img src="images/without-vs.png" alt="without-vs">
@@ -107,8 +114,6 @@ How do you track your changes?
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
 <figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
 </figure>
-
-Simple answer: to keep our files safe
 	
 ---
 @title[What is Git?]
@@ -322,6 +327,10 @@ __Install!__
 
 _Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub/BitBucket/Innersource/... without supplying your username or password at each visit._
 
+[SSH keys - technical overview](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+[SSH keys - explain like I am five](https://www.reddit.com/r/learnprogramming/comments/1enupy/explain_ssh_keys_and_validation_like_im_five/?st=jabdg9iy&sh=f9163439) 
+
+
 +++
 @title[Working with remote repos - generating keys demo]
 
@@ -330,7 +339,7 @@ _Using the SSH protocol, you can connect and authenticate to remote servers and 
 +++
 @title[Working with remote repos - detailed instructions]
 
-Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
+Detailed instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
 
 +++
 @title[Working with remote repos - adding keys]
@@ -343,7 +352,7 @@ Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-an
 @title[Working with remote repos - create repo - demo]
 
 #### Create repo on GitHub
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inSe13Au5tg" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inSe13Au5tg?&vq=hd1080" frameborder="0" gesture="media" allowfullscreen target="_top"></iframe>
 
 +++
 @title[Working with remote repos - commands]
@@ -382,7 +391,7 @@ Place to add some more advanced demo
 
 * Learnt new Gitty things preparing content
 * Presentation created and maintained in Git
-* Content produced using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki)
+* Content produced using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki) + [asciinema](https://asciinema.org/)
 * Feels good to collaborate and contribute
 
 
