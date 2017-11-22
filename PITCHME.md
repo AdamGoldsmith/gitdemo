@@ -98,7 +98,7 @@ https://gitpitch.com/AdamGoldsmith/gitdemo#/
 @title[Bad example 1]
 
 <figure>
-<img src="images/verybadexample.jpg" alt="badexample">
+<img src="images/verybadexample.jpg" alt="badexample" height="100px">
 </figure>
 
 +++
