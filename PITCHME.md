@@ -328,6 +328,7 @@ __Install!__
 _Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub/BitBucket/Innersource/... without supplying your username or password at each visit._
 
 [SSH keys - technical overview](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+
 [SSH keys - explain like I am five](https://www.reddit.com/r/learnprogramming/comments/1enupy/explain_ssh_keys_and_validation_like_im_five/?st=jabdg9iy&sh=f9163439) 
 
 
@@ -339,7 +340,7 @@ _Using the SSH protocol, you can connect and authenticate to remote servers and 
 +++
 @title[Working with remote repos - detailed instructions]
 
-Detailed instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
+Detailed instructions on generating ssh keys [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
 
 +++
 @title[Working with remote repos - adding keys]
@@ -352,7 +353,7 @@ Detailed instructions [here](https://help.github.com/articles/generating-a-new-s
 @title[Working with remote repos - create repo - demo]
 
 #### Create repo on GitHub
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inSe13Au5tg?&vq=hd1080" frameborder="0" gesture="media" allowfullscreen target="_top"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inSe13Au5tg?&vq=hd720" frameborder="0" gesture="media" allowfullscreen target="_blank"></iframe>
 
 +++
 @title[Working with remote repos - commands]
