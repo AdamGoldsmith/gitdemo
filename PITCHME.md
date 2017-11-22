@@ -68,9 +68,11 @@
 ![CVCS vs DVCS](https://www.youtube.com/embed/_yQlKEq-Ueg)
 
 +++
-@title[What is version control?]
+@title[Useful references]
 
-version control = source control = software tools (programs) used to help with files management
+### Useful references
+
+[History of VCS](https://www.lynda.com/ALMTFS-tutorials/history-version-control/106788/115979-4.html)
 
 ---
 @title[Why do we use it?]
@@ -278,7 +280,6 @@ __Install!__
 ### Useful references
 
 [Good commit message practices](https://chris.beams.io/posts/git-commit)
-
 
 ---
 @title[Working with remote repos]
