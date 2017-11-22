@@ -114,7 +114,7 @@ Simple answer: to keep our files safe
 * Created by Linus Torvalds 2005
 * Originally written in Perl & C
 * Runs on many platforms
-* Most popular DVCS
+* Most popular VCS
 
 +++
 @title[Git is not..]
