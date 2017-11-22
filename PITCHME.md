@@ -137,6 +137,13 @@ Git Search Interest Rank
 
 ![git stats](images/git-stats.png)
 
++++
+@title[Useful references]
+
+### Useful references
+
+[A poem about Git written in Git](https://i.redd.it/1v049jyhktmz.jpg)
+
 ---
 @title[Git installation]
 ## Git installation
