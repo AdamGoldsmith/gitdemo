@@ -1,7 +1,8 @@
 ---?image=images/title_bg.png
 @title[TITLE]
+
+## An Introduction to
 ## Version Control
-## For Beginners
 > 24th November 2017
 
 ---
@@ -9,21 +10,39 @@
 
 ## Presenters
 
-* Katarzyna Siedlarek
-* Adam Goldsmith
-* Anthony Skidmore
++++
+@title[Kasia]
+
+### Kasia Siedlarek
+
++++
+@title[Adam]
+
+### Adam Goldsmith
+
+![adamg](images/adamg.png)
+
++++
+@title[Tony]
+
+### Tony Skidmore
 
 ---
 @title[Overview]
 
 ## Overview
 
-* What is version control? 
-* Why use version control?
-* What is Git?
-* Installing Git
-* Working on Git locally
-* Working on Git remotely
++++
+@title[Contents]
+
+- What is version control?
+- Why use version control? |
+- What is Git? |
+- Installing Git |
+- Working on Git locally |
+- Working on Git remotely |
+- Take a look at Innersource |
+- Interactive Demo of GitLab |
 
 ---
 @title[What is version control?]
@@ -31,13 +50,29 @@
 ## What is version control?
 
 +++
+@title[History of VCS]
 
+#### History of VCS
+#### (Version Control Systems)
+
+
+| 1st Gen       | 2nd Gen     | 3rd Gen     |
+|---------------|-------------|-------------|
+| 1972          | 1986        | Late 1990s  |
+| No networking | Centralised | Distributed |
+| Single file   | Multi file  | Changesets  |
+
++++
+@title[Centralised vs Distributed]
+
+![CVCS vs DVCS](https://www.youtube.com/embed/_yQlKEq-Ueg)
+
++++
 @title[What is version control?]
 
 version control = source control = software tools (programs) used to help with files management
 
 ---
-
 @title[Why do we use it?]
 
 <figure>
@@ -58,7 +93,6 @@ version control = source control = software tools (programs) used to help with f
 
 +++
 
-## Why do we use it?
 <figure>
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
 <figcaption>source: <a href="https://xkcd.com/">xkcd</a></figcaption>
@@ -71,20 +105,31 @@ Simple answer: to keep our files safe
 
 ## What is Git?
 
++++
+@title[Git is..]
+
 ![gitlogo](images/gitlogo.png)
-* Created by Linus Torvalds 2005
-* Etymology - self-proclaimed git!
 
 *"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."*
 
-* Written in Perl & C
+* Created by Linus Torvalds 2005
+* Originally written in Perl & C
 * Runs on many platforms
 * Most popular DVCS
 
 +++
-@title[Not Github!]
+@title[Git is not..]
 
-Git ≠ Github
+Git ≠ (GitHub ≈ GitLab ≈ Bitbucket ≈ Innersource ≈ etc)
+
++++
+@title[How Git is different]
+
+#### Difference with Git
+
+![git-changesets](images/git-changesets.png)
+
+[Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 +++
 @title[Git Search History Rank]
@@ -94,47 +139,12 @@ Git Search Interest Rank
 ![git stats](images/git-stats.png)
 
 ---
-@title[History of VCS]
-
-## History of VCS
-
-![Down Key](images/down.png)
-
-+++
-@title[1st Gen]
-
-1st Generation
-* 1970s
-* Single File
-* No networking
-
-+++
-@title[2nd Gen]
-
-2nd Generation
-* Multi File
-* Centralised
-
-+++
-@title[3rd Gen]
-
-3rd Generation
-* Changesets
-* Distributed
-
----
-@title[Why use Git?]
-
-## Why use Git?
-
----
-
 @title[Git installation]
 ## Git installation
 
 +++
-
 @title[Git installation - Linux]
+
 ### Linux
 * sudo apt-get install git
 * sudo yum install git
@@ -142,31 +152,31 @@ Git Search Interest Rank
 * [detailed instructions](https://git-scm.com/download/linux)
 
 +++
-
 @title[Git installation - Mac OSX]
+
 ### Mac OS X
 * [brew](https://brew.sh/) install git
 * (or build from source with [macports](https://www.macports.org/))
 * [detailed instructions](https://git-scm.com/download/mac)
 
 +++
-
 @title[Git installation - Windows]
+
 ### Windows
 * download [git](https://git-scm.com/download/windows) and follow interactive installer
 * install with [chocolatey](https://chocolatey.org/packages/git)
 
 +++
-
 @title[Git installation - Windows setup - license and path]
+
 ##### Windows setup
 
 * Read license ([GNU General Public License](https://www.gnu.org/licenses/#GPL))
 * Set up install path (C:\Program Files\Git)
 
 +++
-
 @title[Git installation - Windows setup - components]
+
 ##### Windows setup
 
 * Select components:
@@ -178,8 +188,8 @@ Git Search Interest Rank
     * Use TrueType font in all consoles
 
 +++
-
 @title[Git installation - Windows setup - environment]
+
 ##### Windows setup
 
 * Select Start Menu Folder (Git)
@@ -189,8 +199,8 @@ Git Search Interest Rank
     * Use Git and optional Unix tools from Windows Command Prompt
 
 +++
-
 @title[Git installation - Windows setup - HTTPS backend]
+
 ##### Windows setup
 
 * Choosing HTTP transport backend
@@ -198,8 +208,8 @@ Git Search Interest Rank
     * __Use native Windows Secure Channel library__
 
 +++
-
 @title[Git installation - Windows setup - line endings]
+
 ##### Windows setup
 
 <small>_Character for line ending is different for Unix ("\n") and Windows ("\r\n"), read more [here](https://en.wikipedia.org/wiki/Newline)_</small>
@@ -209,8 +219,8 @@ Git Search Interest Rank
     * Checkout as-is, commit as-is
 
 +++
-
 @title[Git installation - Windows setup - terminal]
+
 ##### Windows setup
 
 * Configuring the terminal emulator to use with Git Bash
@@ -218,8 +228,8 @@ Git Search Interest Rank
     * Use Windows’s default console window (cmd)
 
 +++
-
 @title[Git installation - Windows setup - extras]
+
 ##### Windows setup
 
 * Extra options:
@@ -228,28 +238,28 @@ Git Search Interest Rank
     * Enable symbolic links
 
 +++
-
 @title[Git installation - Windows setup - final]
+
 ##### Windows setup
 __Install!__
 
 +++
-
 @title[Git installation - Windows setup - demo]
+
 ##### Windows setup demo
 
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 
 +++
-
 @title[Git installation - Basic git setup - demo]
+
 ##### Basic git setup
 
 [![asciicast](https://asciinema.org/a/148260.png)](https://asciinema.org/a/148260)
 
 +++
-
 @title[Git installation - links]
+
 ### Useful Links
 
 [Git customization](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
@@ -257,51 +267,63 @@ __Install!__
 [More windows install options](http://www.jamessturtevant.com/posts/5-Ways-to-install-git-on-Windows/)
 
 ---
+@title[Working on Git locally]
 
+## Working on Git locally
+
++++
+@title[Different Git Areas]
+
+### Different areas in Git
+
+![git-areas](images/git-areas.png)
+
+---
 @title[Working with remote repos]
+
 ## Working with remote repos
 
 +++
-
 @title[Working with remote repos - setup]
+
 ##### Remote set up
 * Create an account
 * Generate ssh keys
 * Add ssh keys to your account
 
 +++
-
 @title[Working with remote repos - ssh keys]
+
 ##### Generating keys
 
 _Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub/BitBucket/Innersource/... without supplying your username or password at each visit._
 
 +++
-
 @title[Working with remote repos - generating keys demo]
+
 [![asciicast](https://asciinema.org/a/148261.png)](https://asciinema.org/a/148261)
 
 +++
-
 @title[Working with remote repos - detailed instructions]
+
 Instructions [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
 
 +++
-
 @title[Working with remote repos - adding keys]
+
 ##### Adding public key to account keys
 
 <img src="images/sshkey.png" alt="sshkeysscreenshot">
 
 +++
-
 @title[Working with remote repos - create repo - demo]
+
 #### Create repo on GitHub
 <iframe width="560" height="315" src="https://www.youtube.com/embed/inSe13Au5tg" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 +++
-
 @title[Working with remote repos - commands]
+
 #### Commands
 
 ```bash
@@ -330,4 +352,13 @@ git pull <remote>
 Place to add some more advanced demo
 
 ---
+@title[Closing]
+
+#### Cool observations
+
+* Learnt new Gitty things preparing content
+* Presentation created and maintained in Git
+* Content produced using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki)
+* Feels good to collaborate and contribute
+
 
