@@ -391,6 +391,7 @@ Place to add some more advanced demo
 #### Cool observations
 
 * Learnt new Gitty things preparing content
+* Learnt new things not directly related to the topic of presentation
 * Presentation created and maintained in Git
 * Content produced using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki) + [asciinema](https://asciinema.org/)
 * Feels good to collaborate and contribute
