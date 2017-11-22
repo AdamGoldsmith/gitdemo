@@ -91,21 +91,21 @@ https://gitpitch.com/AdamGoldsmith/gitdemo#/
 @title[How do you track your changes?]
 
 <figure>
-<img src="images/iwantyou.jpg" alt="iwantyou">
+<img src="images/iwantyou.jpg" alt="iwantyou" height="400px">
 </figure>
 
 +++
 @title[Bad example 1]
 
 <figure>
-<img src="images/verybadexample.jpg" alt="badexample" height="100px">
+<img src="images/verybadexample.jpg" alt="badexample" height="400px">
 </figure>
 
 +++
 @title[Bad example 2]
 
 <figure>
-<img src="images/without-vs.png" alt="without-vs">
+<img src="images/without-vs.png" alt="without-vs" height="400px">
 </figure>
 
 +++
