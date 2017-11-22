@@ -85,6 +85,17 @@
 @title[How do you track your changes?"
 
 How do you track your changes?
+<figure>
+<img src="images/iwantyou.jpg" alt="iwantyou">
+</figure>
+
++++
+
+<figure>
+<img src="images/verybadexample.jpg" alt="badexample">
+</figure>
+
++++
 
 <figure>
 <img src="images/without-vs.png" alt="without-vs">
@@ -253,6 +264,7 @@ __Install!__
 @title[Git installation - Windows setup - demo]
 
 ##### Windows setup demo
+
 <iframe src="https://drive.google.com/file/d/1Up28TxJ3xJRXAUQf9LGsUJ5L0xvWOUMc/preview" width="640" height="480"></iframe>
 
 +++
@@ -357,7 +369,7 @@ git push <remote> <branch>
 git pull <remote>
 ```
 
-[Git cheetsheat](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+[Git cheatsheat](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 +++
 
