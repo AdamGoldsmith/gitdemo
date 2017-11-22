@@ -272,6 +272,14 @@ __Install!__
 
 ![git-areas](images/git-areas.png)
 
++++
+@title[Useful references]
+
+### Useful references
+
+[Good commit message practices](https://chris.beams.io/posts/git-commit)
+
+
 ---
 @title[Working with remote repos]
 
