@@ -73,6 +73,7 @@
 ### Useful references
 
 [Version Control - Wikipedia](https://en.wikipedia.org/wiki/Version_control)
+
 [History of VCS](https://www.lynda.com/ALMTFS-tutorials/history-version-control/106788/115979-4.html)
 
 ---
