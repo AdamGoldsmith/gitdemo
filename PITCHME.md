@@ -409,5 +409,12 @@ Place to add some more advanced demo
 * Get to know new people
 * Feels good to collaborate and contribute
 
-#### THANK YOU
++++
+@title[Thank you]
+
+## THANK YOU
+
+#### Remember : Version Control is for Everybody
+
+**It is fundamental for DevOps & Infrastructure as Code !**
 
