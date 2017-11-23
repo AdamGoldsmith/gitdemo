@@ -36,7 +36,7 @@
 +++
 @title[The real Tony]
 
-![realtony](images/
+![realtony](images/robot.gif)
 
 ---
 @title[Overview]
