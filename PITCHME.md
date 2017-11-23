@@ -219,7 +219,7 @@ Git Search Interest Rank
 ##### Windows setup
 
 * Select Start Menu Folder (Git)
-* Adjusting your PATH environment
+* Adjusting your [PATH](https://en.wikipedia.org/wiki/PATH_(variable)) environment
     * __Use Git from Git Bash only__
     * Use Git from Windows Command Prompt
     * Use Git and optional Unix tools from Windows Command Prompt
@@ -260,8 +260,8 @@ Git Search Interest Rank
 
 * Extra options:
     * Enable file system caching
-    * Enable Git Credential Manager
-    * Enable symbolic links
+    * Enable [Git Credential Manager](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
+    * Enable [symbolic links](https://en.wikipedia.org/wiki/Symbolic_link)
 
 +++
 @title[Git installation - Windows setup - final]
