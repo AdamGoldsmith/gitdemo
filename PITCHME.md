@@ -36,6 +36,10 @@
 +++
 @title[The real Tony]
 
+### The real Tony Skidmore
+
+With his son Daniel in Lanzarote during the 2014 World Cup
+
 ![realtony](images/robot.gif)
 
 ---
