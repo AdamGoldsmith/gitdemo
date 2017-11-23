@@ -454,7 +454,8 @@ Hosted by Tony
 
 ## THANK YOU
 
-### Remember : Version Control is for Everybody
+### Remember
+### Version Control is for Everybody
 
 **It's fundamental for DevOps & Infrastructure as Code !**
 
