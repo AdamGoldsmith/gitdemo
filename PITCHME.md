@@ -389,7 +389,7 @@ git pull <remote>
 
 +++
 
-Place to add some more advanced demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7sAnrjLdbcw" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ---
 @title[Interactive Demo]
@@ -436,9 +436,6 @@ Place to add some more advanced demo
 * [6 starting points for opensource beginners](https://opensource.com/life/16/1/6-beginner-open-source)
 * [Github report on opensource for 2017](https://octoverse.github.com/)
 
----
-
-
 
 ---
 @title[Thank you]
@@ -450,3 +447,5 @@ Place to add some more advanced demo
 **It's fundamental for DevOps & Infrastructure as Code !**
 
 **Don't be scared to use it!**
+
+---
