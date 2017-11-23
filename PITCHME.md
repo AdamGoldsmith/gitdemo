@@ -31,6 +31,14 @@
 
 ### Tony Skidmore
 
+![tonys](images/robot.gif)
+
++++
+@title[The real Tony]
+
+### The real Tony Skidmore
+
+![realtony](images/tonys.png)
 
 ---
 @title[Overview]
@@ -396,7 +404,12 @@ git pull <remote>
 
 ## Interactive Demo
 
-#### Tony Skidmore
+Hosted by Tony
+
++++
+@title[Demo Architecture]
+
+![GitLab Demo Architecture](images/GitLab-Demo-Architecture.png)
 
 ---
 @title[Closing]
@@ -446,6 +459,5 @@ git pull <remote>
 
 **It's fundamental for DevOps & Infrastructure as Code !**
 
-**Don't be scared to use it!**
+**Don't fear the Git !!**
 
----
