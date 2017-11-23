@@ -31,7 +31,6 @@
 
 ### Tony Skidmore
 
-![tonys](images/robot.gif)
 
 ---
 @title[Overview]
