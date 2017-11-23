@@ -31,6 +31,12 @@
 
 ### Tony Skidmore
 
+![tonys](images/robot.gif)
+
++++
+@title[The real Tony]
+
+![realtony](images/
 
 ---
 @title[Overview]
@@ -418,4 +424,5 @@ Place to add some more advanced demo
 
 **It's fundamental for DevOps & Infrastructure as Code !**
 
-**Don't be scared to use it!**
+**Don't fear the Git!!**
+
