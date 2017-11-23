@@ -416,5 +416,6 @@ Place to add some more advanced demo
 
 #### Remember : Version Control is for Everybody
 
-**It is fundamental for DevOps & Infrastructure as Code !**
+**It's fundamental for DevOps & Infrastructure as Code !**
 
+**Don't be scared to use it!**
