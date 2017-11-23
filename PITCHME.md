@@ -31,6 +31,7 @@
 
 ### Tony Skidmore
 
+
 ---
 @title[Overview]
 
@@ -87,7 +88,7 @@ https://gitpitch.com/AdamGoldsmith/gitdemo#/
 [History of VCS](https://www.lynda.com/ALMTFS-tutorials/history-version-control/106788/115979-4.html)
 
 ---
-@title[Why do we use it?]
+@title[Why use version control?]
 
 ## Why use version control?
 
@@ -113,6 +114,7 @@ https://gitpitch.com/AdamGoldsmith/gitdemo#/
 </figure>
 
 +++
+@title[Bad example 3]
 
 <figure>
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
@@ -390,6 +392,13 @@ git pull <remote>
 Place to add some more advanced demo
 
 ---
+@title[Interactive Demo]
+
+## Interactive Demo
+
+#### Tony Skidmore
+
+---
 @title[Closing]
 
 #### Cool observations
@@ -431,4 +440,13 @@ Place to add some more advanced demo
 
 
 
+---
+@title[Thank you]
 
+## THANK YOU
+
+#### Remember : Version Control is for Everybody
+
+**It's fundamental for DevOps & Infrastructure as Code !**
+
+**Don't be scared to use it!**
