@@ -31,6 +31,8 @@
 
 ### Tony Skidmore
 
+![tonys](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjbtorJ1tTXAhWEI8AKHbNjDqEQjRwIBw&url=https%3A%2F%2Fimgur.com%2Fgallery%2FGg6wa3S&psig=AOvVaw11dSrF72XBlG1VT7UrKmk4&ust=1511524946279374)
+
 ---
 @title[Overview]
 
@@ -87,7 +89,7 @@ https://gitpitch.com/AdamGoldsmith/gitdemo#/
 [History of VCS](https://www.lynda.com/ALMTFS-tutorials/history-version-control/106788/115979-4.html)
 
 ---
-@title[Why do we use it?]
+@title[Why use version control?]
 
 ## Why use version control?
 
@@ -113,6 +115,7 @@ https://gitpitch.com/AdamGoldsmith/gitdemo#/
 </figure>
 
 +++
+@title[Bad example 3]
 
 <figure>
 <img src="images/vc-xkcd.jpg" alt="xkcd-vc">
