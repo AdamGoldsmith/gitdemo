@@ -357,7 +357,7 @@ Detailed instructions on generating ssh keys [here](https://help.github.com/arti
 @title[Working with remote repos - create repo - demo]
 
 #### Create repo on GitHub
-<iframe width="800" height="500" src="https://www.youtube.com/embed/inSe13Au5tg?&vq=hd720?rel=0" frameborder="0" gesture="media" allowfullscreen target="_blank"></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/inSe13Au5tg?&vq=hd720?rel=0" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 +++
 @title[Working with remote repos - commands]
