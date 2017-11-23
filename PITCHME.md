@@ -31,7 +31,7 @@
 
 ### Tony Skidmore
 
-![tonys](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjbtorJ1tTXAhWEI8AKHbNjDqEQjRwIBw&url=https%3A%2F%2Fimgur.com%2Fgallery%2FGg6wa3S&psig=AOvVaw11dSrF72XBlG1VT7UrKmk4&ust=1511524946279374)
+![tonys](images/robot.gif)
 
 ---
 @title[Overview]
