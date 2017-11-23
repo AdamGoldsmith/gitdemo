@@ -15,7 +15,9 @@
 
 ### Kasia Siedlarek
 
-![kasias](images/kasia.jpg)
+<figure>
+<img src="images/kasia.jpg" alt="kasia" height="500px">
+</figure>
 
 +++
 @title[Adam]
