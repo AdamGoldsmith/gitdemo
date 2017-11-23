@@ -219,7 +219,7 @@ Git Search Interest Rank
 ##### Windows setup
 
 * Select Start Menu Folder (Git)
-* Adjusting your [PATH](https://msdn.microsoft.com/en-us/library/windows/desktop/ms682653(v=vs.85).aspx) environment
+* Adjusting your [PATH](https://superuser.com/questions/284342/what-are-path-and-other-environment-variables-and-how-can-i-set-or-use-them) environment
     * __Use Git from Git Bash only__
     * Use Git from Windows Command Prompt
     * Use Git and optional Unix tools from Windows Command Prompt
