@@ -40,7 +40,7 @@
 
 With his son Daniel in Lanzarote during the 2014 World Cup
 
-![realtony](images/robot.gif)
+![realtony](images/tonys.png)
 
 ---
 @title[Overview]
