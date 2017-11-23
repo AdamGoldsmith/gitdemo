@@ -419,7 +419,7 @@ Hosted by Tony
 
 * Learnt new *"Gitty"* things preparing content
 * Presentation created and maintained in Git
-* Produced using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki) + [asciinema](https://asciinema.org/)
+* Produced with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki) + [asciinema](https://asciinema.org/)
 * Get to know new people
 * Feels good to collaborate and contribute
 * Had a lot of fun
