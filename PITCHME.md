@@ -397,7 +397,7 @@ git pull <remote>
 
 +++
 
-Place to add some more advanced demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7sAnrjLdbcw" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ---
 @title[Interactive Demo]
@@ -422,6 +422,34 @@ Hosted by Tony
 * Get to know new people
 * Feels good to collaborate and contribute
 
++++
+
+@title[More resources - part 1]
+
+#### More resources
+
+* [Main git documentation](https://git-scm.com/)
+* [Learn git in 15 min](https://try.github.io/levels/1/challenges/1)
+* [More advanced git tutorial](https://learngitbranching.js.org/)
+* [This presentation on github](https://github.com/AdamGoldsmith/gitdemo)
+* [Git submodules - advanced topic](https://www.atlassian.com/blog/git/git-submodules-workflows-tips)
+* [Git merge vs rebase - advanced topic](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
++++
+
+@title[More resources - part 2]
+
+#### More resources
+
+* [GitHub](https://github.com/)
+* [GitHub education pack for students](https://education.github.com/pack)
+* [Bitbucket](https://bitbucket.org/)
+* [How to contribute to opensource and why](https://opensource.guide/how-to-contribute/)
+* [Opportunities to contribute for beginners](https://github.com/MunGell/awesome-for-beginners)
+* [6 starting points for opensource beginners](https://opensource.com/life/16/1/6-beginner-open-source)
+* [Github report on opensource for 2017](https://octoverse.github.com/)
+
+
 ---
 @title[Thank you]
 
@@ -431,5 +459,5 @@ Hosted by Tony
 
 **It's fundamental for DevOps & Infrastructure as Code !**
 
-**Don't fear the Git!!**
+**Don't fear the Git !!**
 
