@@ -402,7 +402,7 @@ Place to add some more advanced demo
 
 +++
 
-@title[More resources]
+@title[More resources - part 1]
 
 #### More resources
 
@@ -412,6 +412,13 @@ Place to add some more advanced demo
 * [This presentation on github](https://github.com/AdamGoldsmith/gitdemo)
 * [Git submodules - advanced topic](https://www.atlassian.com/blog/git/git-submodules-workflows-tips)
 * [Git merge vs rebase - advanced topic](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
++++
+
+@title[More resources - part 2]
+
+#### More resources
+
 * [GitHub](https://github.com/)
 * [GitHub education pack for students](https://education.github.com/pack)
 * [Bitbucket](https://bitbucket.org/)
