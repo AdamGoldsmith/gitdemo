@@ -392,6 +392,13 @@ git pull <remote>
 Place to add some more advanced demo
 
 ---
+@title[Interactive Demo]
+
+## Interactive Demo
+
+#### Tony Skidmore
+
+---
 @title[Closing]
 
 #### Cool observations
@@ -402,4 +409,5 @@ Place to add some more advanced demo
 * Get to know new people
 * Feels good to collaborate and contribute
 
+#### THANK YOU
 
