@@ -402,7 +402,12 @@ Place to add some more advanced demo
 ---
 @title[Interactive Demo]
 
-### Interactive Demo
+## Interactive Demo
+
+Hosted by Tony
+
++++
+@title[Demo Architecture]
 
 ![GitLab Demo Architecture](images/GitLab-Demo-Architecture.png)
 
