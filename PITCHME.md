@@ -406,7 +406,9 @@ Place to add some more advanced demo
 
 ## Interactive Demo
 
-#### Tony Skidmore
+Tony Skidmore
+
+![GitLab Demo Architecture](images/GitLab-Demo-Architecture.png)
 
 ---
 @title[Closing]
