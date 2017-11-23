@@ -38,8 +38,6 @@
 
 ### The real Tony Skidmore
 
-With his son Daniel in Lanzarote during the 2014 World Cup
-
 ![realtony](images/tonys.png)
 
 ---
@@ -404,9 +402,7 @@ Place to add some more advanced demo
 ---
 @title[Interactive Demo]
 
-## Interactive Demo
-
-Tony Skidmore
+### Interactive Demo
 
 ![GitLab Demo Architecture](images/GitLab-Demo-Architecture.png)
 
