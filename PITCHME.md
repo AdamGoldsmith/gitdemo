@@ -423,7 +423,6 @@ Hosted by Tony
 * Feels good to collaborate and contribute
 
 +++
-
 @title[More resources - part 1]
 
 #### More resources
@@ -436,7 +435,6 @@ Hosted by Tony
 * [Git merge vs rebase - advanced topic](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 +++
-
 @title[More resources - part 2]
 
 #### More resources
