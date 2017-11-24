@@ -58,6 +58,7 @@
 - Interactive Demo of GitLab |
 
 +++
+@title[Presentation Reference]
 
 You can access presentation here: 
 
@@ -73,7 +74,6 @@ https://gitpitch.com/AdamGoldsmith/gitdemo#/
 
 #### History of VCS
 #### (Version Control Systems)
-
 
 | 1st Gen       | 2nd Gen     | 3rd Gen     |
 |---------------|-------------|-------------|
@@ -397,6 +397,7 @@ git pull <remote>
 
 +++
 #### Using git remote repos
+@title[Working with Git remotes - video]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7sAnrjLdbcw" frameborder="0" gesture="media" allowfullscreen></iframe>
 
@@ -417,14 +418,14 @@ Hosted by Tony
 
 #### Cool observations
 
-* Learnt new Gitty things preparing content
+* Learnt new *"Gitty"* things preparing content
 * Presentation created and maintained in Git
-* Content produced using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki) + [asciinema](https://asciinema.org/)
+* Produced with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) + [GitPitch](https://github.com/gitpitch/gitpitch/wiki) + [asciinema](https://asciinema.org/)
 * Get to know new people
 * Feels good to collaborate and contribute
+* Had a lot of fun
 
 +++
-
 @title[More resources - part 1]
 
 #### More resources
@@ -437,7 +438,6 @@ Hosted by Tony
 * [Git merge vs rebase - advanced topic](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 +++
-
 @title[More resources - part 2]
 
 #### More resources
@@ -450,13 +450,13 @@ Hosted by Tony
 * [6 starting points for opensource beginners](https://opensource.com/life/16/1/6-beginner-open-source)
 * [Github report on opensource for 2017](https://octoverse.github.com/)
 
-
 ---
 @title[Thank you]
 
 ## THANK YOU
 
-#### Remember : Version Control is for Everybody
+### Remember
+### Version Control is for Everybody
 
 **It's fundamental for DevOps & Infrastructure as Code !**
 
