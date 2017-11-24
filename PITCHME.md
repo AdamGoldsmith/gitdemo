@@ -393,7 +393,7 @@ git push <remote> <branch>
 git pull <remote>
 ```
 
-[Git cheatsheat](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+[Git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 +++
 #### Using git remote repos
