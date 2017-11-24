@@ -170,7 +170,7 @@ Git Search Interest Rank
 +++
 @title[Useful references]
 
-### Useful references
+### (Not so) useful references
 
 [A poem about Git written in Git](https://i.redd.it/1v049jyhktmz.jpg)
 
