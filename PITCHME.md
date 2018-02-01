@@ -319,6 +319,8 @@ __Install!__
 
 ### Useful references
 
+[![asciicast](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC.png)](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC)
+
 [Good commit message practices](https://chris.beams.io/posts/git-commit)
 
 ---
