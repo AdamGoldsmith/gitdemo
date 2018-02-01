@@ -319,7 +319,7 @@ __Install!__
 
 ### Local Git Demo
 
-[![asciicast](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC.png)](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC)
+[![asciicast](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC.png)](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC?autoplay=1)
 
 +++
 @title[Useful references]
