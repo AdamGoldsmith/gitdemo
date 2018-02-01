@@ -315,11 +315,16 @@ __Install!__
 ![git-areas](images/git-areas.png)
 
 +++
+@title[Local Git Demo]
+
+### Local Git Demo
+
+[![asciicast](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC.png)](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC)
+
++++
 @title[Useful references]
 
 ### Useful references
-
-[![asciicast](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC.png)](https://asciinema.org/a/z3zhJP2bqGPgj4oxMTSBlhYSC)
 
 [Good commit message practices](https://chris.beams.io/posts/git-commit)
 
